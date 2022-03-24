@@ -83,4 +83,4 @@ def twenty_first_century?(year)
 end
 
 # test
-# bundle exec rspec spec/numbers_exercises_spec.rb
+# bundle exec rspec spec/method_exercises_spec.rb
